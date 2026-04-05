@@ -33,7 +33,7 @@ This project is a backend finance tracking system built using Django and Django 
    git clone <repo-link>
 
 2. Navigate to project folder:
-   cd finance-tracker-backend
+   cd finance_tracker
 
 3. Install dependencies:
    pip install -r requirements.txt
